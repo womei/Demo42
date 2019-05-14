@@ -7,10 +7,12 @@ More information about this Demo can be found in the [PDF Section 60: The Demo](
 
 ### Unity Code
 
+![View From Unity Simulation](https://github.com/womei/Demo42/blob/master/docs/UnityView.png)
 This section contains the complete Unity project that simulates a ICU room and controls alarms.
 
 ### Hardware
 
+![The Demo](https://github.com/womei/Demo42/blob/master/docs/DemoWearable.jpg)
 This section contains the diagram to recreate the hardware used in Demo42. It is based on the WeMosD1 mini.
 
 ### Microcontroller Code
